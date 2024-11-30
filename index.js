@@ -11,28 +11,36 @@ app.use(cors(
 const MEDICENS=[
 {
  id:1,
- name:"calpol",
- description:"Anti-pyretic",
+ Name:"calpol",
+ Description:"Anti-pyretic",
+ 
 },
 {
     id:2,
-    name:"sinarest",
-    description:"cold",
+    Name:"Sinarest",
+    Description:"cold",
+    
+
 },
 {
     id:3,
     name:"Azee 500",
     description:"anti-biotic",
+    
+
 },
 {
     id:4,
     name:"Azithral",
     description:"anti-biotic",
+    
 },
 {
     id:5,
     name:"Uritop",
-    description:"diauretic"
+    description:"diauretic",
+   
+
 }]
 
 
